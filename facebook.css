@@ -51,5 +51,50 @@ h5{
 
 .forgotpassword{
     margin: 5px 0 5px 0;
-    color: gray;
+    color: darkslategray;
+}
+
+.create-account{
+    display: flex;
+    justify-content: center;
+}
+
+.button2{
+    margin: 50px 0 0 0;
+    height: 40px;
+    width: 300px;
+    background-color: whitesmoke;
+    color: darkslategray;
+    border: solid 1px gray;
+    border-radius: 20px;
+    cursor: pointer;
+    
+}
+
+.meta{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.meta-logo{
+    margin: 10px 0 5px 0;
+    color: darkslategray;
+}
+
+.footer-links{
+    display: flex;
+    justify-content: center;
+}
+.about{
+    margin: 10px 10px 5px 0;
+    color: darkslategray;
+}
+.help{
+    margin: 10px 10px 5px 0;
+    color: darkslategray;
+}
+.more{
+    margin: 10px 10px 5px 0;
+    color: darkslategray;
 }
