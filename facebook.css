@@ -1,0 +1,38 @@
+body{
+    background-color: whitesmoke;
+    font-family: Arial, sans-serif;
+
+}
+
+h5{
+    color: grey;
+    font-size: 14px;
+    text-align: center;
+
+}
+
+.facebook-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+    font-size: 60px;
+    color: blue;
+}
+
+.input-field{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 10px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    outline: none;
+    transition: border-color 0.3s;
+
+    
+
+}
