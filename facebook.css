@@ -17,22 +17,39 @@ h5{
     align-items: center;
     padding-top: 50px;
     padding-bottom: 5px;
-    margin-top: 50px;
+    margin-top: 20px;
     font-size: 60px;
     color: blue;
 }
 
-.input-field{
+.login{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    padding: 12px 10px;
-    border: 1px solid gray;
-    border-radius: 6px;
-    margin-bottom: 10px;
-    outline: none;
-    transition: border-color 0.3s;
-
+    margin-top: 20px;
     
+}
+.fill-ins{
+    height: 40px;
+    width: 300px;
+    margin: 5px 0 5px 0;
+    border: solid 1px lightgrey;
+    border-radius: 5px;    
+    
+}
 
+.button{
+    margin: 5px 0 5px 0;
+    height: 40px;
+    width: 300px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.forgotpassword{
+    margin: 5px 0 5px 0;
+    color: gray;
 }
